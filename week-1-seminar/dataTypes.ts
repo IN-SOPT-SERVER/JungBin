@@ -1,7 +1,7 @@
 const isLiked: boolean = true;
 console.log(`${typeof isLiked}, ${isLiked}`);
 
-const str: string = "hello!";
+const helloStr: string = "hello!";
 console.log(`${typeof str}, ${str}`);
 
 let num: number = 31;
